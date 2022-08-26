@@ -1,0 +1,21 @@
+<resources xmlns:ARTICLE="http://schemas.android.com/apk/res-auto">
+    <string name="app_name">FragmentExample1</string>
+    <string name="article">The Ola Electric has raised curtain from Ola Electric S1 scooter in India with an introductory price of Rs 99,999.
+ The all-new electric scooter is equipped with a 3KWh electric motor and has a range of up to 141 km. With the sports mode, the scooter will run up to 90 km on a single charge.
+According to the reports, the new scooter can be pre-reserved at ₹499 from August 15 to August 31.
+ Those pre-reserving will have early access to the purchase window on September 1, while the purchase window opens for other customers on September 2
+    </string>
+    <string name="title">Ola Electric Bike</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="like_the_article">LIKE THE ARTICLE ?</string>
+    <string name="yes_message">ARTICLE: Like</string>
+    <string name="no_message">ARTICLE: Thanks</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+
+
+</resources>
